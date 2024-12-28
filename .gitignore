@@ -1,0 +1,13 @@
+display/src/**/*.o
+display/out/
+
+server/public/resources/fonts/
+server/public/resources/js/pxxl**
+
+dumps/
+**misc/
+**NOTES.md
+**/node_modules/
+.vscode/
+*.crt
+*.key
